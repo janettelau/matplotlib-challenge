@@ -1,7 +1,7 @@
 # matplotlib-challenge
 **Objective**: Using Pandas and Matplotlib to analyze study data and generate tables and figures for the technical report of the clinical study. 
 
-The datasets in the "Resources" folder are:
+The datasets in the "data" folder are:
 - `Mouse_metadata.csv`: Mouse ID, Drug Regimen, Sex, Age_months, and Weight(g).
 - `Study_results.csv`: Mouse ID, Timepoint, Tumor Volume(mm3), Metastatic Sites.
 
